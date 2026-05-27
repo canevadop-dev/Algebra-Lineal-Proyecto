@@ -29,6 +29,6 @@ El objetivo central es desarrollar un modelo matemático capaz de **predecir la 
 ---
 
 ## 4. Bibliografía Base (Format IEEE) 📚
-* [1] J. E. Helm and M. P. Van Oyen, "Design and optimization of hospital discharge prioritization policies," *IIE Transactions on Healthcare Systems Engineering*, vol. 4, no. 1, pp. 42-60, Jan. 2014.
+* [1] S. Barnes, E. Hamrock, M. Toerper, et al., "Real-time prediction of hospital length of stay for discharge prioritization," *Journal of the American Medical Informatics Association*, vol. 23, no. e1, pp. e2-e10, Apr. 2016.
 * [2] I. T. Jolliffe and J. Cadima, "Principal component analysis: A review and recent developments," *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*, vol. 374, no. 2061, p. 20150202, Feb. 2016.
-* [3] W. Zheng, "Application of linear regression models based on least squares projections in medical big data analytics," *Journal of Physics: Conference Series*, vol. 1827, no. 1, p. 012054, Mar. 2021.
+* [3] H. Anton y C. Rorres, *Elementary Linear Algebra: Applications Version*, 11va ed. Hoboken, NJ: Wiley, 2014.
