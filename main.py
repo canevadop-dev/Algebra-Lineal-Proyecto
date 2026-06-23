@@ -5,7 +5,7 @@ Fase 2: Descomposición Espectral (PCA) con NumPy / SciPy
 Fase 3: Proyección Predictiva por Mínimos Cuadrados
 Fase 4: Evaluación del Error mediante Norma Euclidiana
 """
- 
+import time
 import numpy as np
 import pandas as pd
 from scipy import linalg
